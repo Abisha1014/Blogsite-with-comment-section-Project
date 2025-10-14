@@ -1,1 +1,1 @@
-# WordPress-Project1
+# WordPress-Project
