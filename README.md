@@ -8,10 +8,11 @@ Description:
 
 
 Features:
-•	Create, edit, and categorize blog posts through the WordPress dashboard.
-•	Enable and manage comments via Discussion Settings.
-•	Auto-display of comments below each post.
-•	Responsive and customizable themes.
+        •	Create, edit, and categorize blog posts through the WordPress dashboard.
+        •	Enable and manage comments via Discussion Settings.
+        •	Auto-display of comments below each post.
+        •	Responsive and customizable themes.
+        
 
 Tools & Technologies Used:
        Platform: WordPress
