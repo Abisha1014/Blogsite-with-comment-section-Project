@@ -3,7 +3,7 @@
 
 ### Description :
 <img width="30" height="30" src="https://img.icons8.com/external-flat-wichaiwi/64/external-description-business-flat-wichaiwi.png" alt="external-description-business-flat-wichaiwi"/>
-##### This project is a simple and interactive blog website developed using WordPress. It allows administrators to create and categorize posts while enabling visitors to share feedback through a comment section. The project demonstrates the use of WordPress as a Content Management System (CMS) and includes optional integration with plugins like Disqus for enhanced commenting features.
+   ##### This project is a simple and interactive blog website developed using WordPress. It allows administrators to create and categorize posts while enabling visitors to share feedback through a comment section. The project demonstrates the use of WordPress as a Content Management System (CMS) and includes optional integration with plugins like Disqus for enhanced commenting features.
 
    ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
